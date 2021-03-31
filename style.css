@@ -1,0 +1,122 @@
+*
+{
+    background-color: rgb(247, 247, 247);
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.text
+{
+
+    margin-top:15%;
+    margin-left: 10%;
+    width: 40%;
+}
+#inner-text
+{
+    margin-left: 45px;
+    margin-top: -20px;
+    padding-top: 10px;
+    font-size: 28px;
+    line-height: 28px;
+    width: auto;
+    line-height: 30px;
+
+}
+#logo
+{
+    margin-top: -25px;
+    margin-left: -35px;
+    height:106px;
+    width: 75%;
+}
+
+.login_div
+{   
+    background-color: white;
+    margin-left: 55%;
+    margin-right: 15%;
+    margin-top: -18%;
+    border-radius: 10px;
+    padding:20px;
+    display: flex;
+    flex-direction: column;
+    height: 325px;
+}
+
+.text-box
+{
+    border-radius: 10px;
+    border: none;
+    height: 22px;
+    line-height: 16px;
+    padding: 15px;
+    background-color: white;
+}
+
+::placeholder
+{
+    font-size: 17px;
+}
+
+#user
+{
+    border:1px solid lightgray;
+}
+
+#pass
+{
+    border:1px solid lightgray;
+}
+
+
+#login-but
+{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 30px;
+    padding: 20px;  
+    padding-bottom: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+#forgot
+{
+    color: blue;
+    margin-top: 15px;
+    background-color: white;
+}
+
+#login-but1
+{
+    background-color: rgb(31, 190, 31);
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    color: white;
+    margin-top: 15px;
+    width: 50%;
+    padding: 15px;
+    margin-left: 25%;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#text
+{
+    font-size: 14px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+#st
+{
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+#st:hover
+{
+    text-decoration: underline;
+    opacity: 1;
+}
